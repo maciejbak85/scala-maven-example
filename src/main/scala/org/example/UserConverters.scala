@@ -1,7 +1,7 @@
 package org.example
 
 import java.util.Optional
-import scala.jdk.OptionConverters.*
+import scala.jdk.OptionConverters._
 
 trait UserConverters {
 
